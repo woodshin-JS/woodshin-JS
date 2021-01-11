@@ -1,5 +1,5 @@
-### Hey there, my name is Jacob Shin.
-### I'm currently a student at Queen's University majoring in Computer Science.
+### 👋 Hey there, my name is Jacob Shin.
+### 📚 I'm currently a student at Queen's University majoring in Computer Science.
 
 
 <!--
